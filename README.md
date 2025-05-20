@@ -18,4 +18,4 @@ Lab 3 - Optional (PowerBI Desktop)
 
 -some elements of this are yet to be deployed in Fabric - use PowerBI Desktop to Prep Data for Ai
 
-https://review.learn.microsoft.com/en-us/power-bi/create-reports/tutorial-copilot-power-bi-introduction?branch=release-build-copilot
+https://learn.microsoft.com/en-us/power-bi/create-reports/tutorial-copilot-power-bi-introduction
