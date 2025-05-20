@@ -6,7 +6,7 @@ Lab 1 - Build a Data Agent
 
 https://learn.microsoft.com/en-us/fabric/data-science/data-agent-scenario
 
-Check the Lab 1 folder for addtional AI Instructions and Sample Queries (few shot)
+Import Data Agent - Bonus notebook for extended AI Instructions and use examples.json for more few shot queries.
 
 Lab 2 - CMS Medicare Part D
 
