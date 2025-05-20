@@ -1,2 +1,21 @@
 # eraofai
 Assets for Era of AI - STL
+
+
+Lab 1 - Build a Data Agent
+
+https://learn.microsoft.com/en-us/fabric/data-science/data-agent-scenario
+
+Check the Lab 1 folder for addtional AI Instructions and Sample Queries (few shot)
+
+Lab 2 - CMS Medicare Part D
+
+https://github.com/isinghrana/fabric-samples-healthcare/tree/main/analytics-bi-directlake-starschema
+
+-try making a dashboard before and after modeling
+
+Lab 3 - Optional (PowerBI Desktop)
+
+-some elements of this are yet to be deployed in Fabric - use PowerBI Desktop to Prep Data for Ai
+
+https://review.learn.microsoft.com/en-us/power-bi/create-reports/tutorial-copilot-power-bi-introduction?branch=release-build-copilot
