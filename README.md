@@ -16,6 +16,6 @@ https://github.com/isinghrana/fabric-samples-healthcare/tree/main/analytics-bi-d
 
 Lab 3 - Optional (PowerBI Desktop)
 
--some elements of this are yet to be deployed in Fabric - use PowerBI Desktop to Prep Data for Ai
+-some elements of this are yet to be deployed in Fabric - use PowerBI Desktop to Prep Data for AI
 
 https://learn.microsoft.com/en-us/power-bi/create-reports/tutorial-copilot-power-bi-introduction
